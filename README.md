@@ -31,14 +31,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Meet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmeetbe24-eng&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmeetbe24-eng&layout=compact&theme=tokyonight&hide_border=true)
----
-
+🔨 Actively building — stats updating as projects grow!
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meet-96b65a372)
