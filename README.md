@@ -20,13 +20,13 @@
 
 ## 🚀 Projects
 
-### 📦 [Multiclass Delivery Prediction Model](https://github.com/mmeetbe24-eng/project_amazon_delivery_delay_model)
-> Two-stage XGBoost + Random Forest pipeline to predict Amazon delivery outcomes on real logistics data.  
-> **Skills:** XGBoost, Random Forest, SMOTE, Feature Engineering, Class Imbalance Handling
+### 🛩️ [AeroTwin-Edge: Hardware-Aware GRU-Attention Predictive Maintenance](https://github.com/mmeetbe24-eng/Project_Aerotwin_Edge)
+Zero-cloud, edge-deployable GRU-Attention network for aircraft engine RUL prediction with MC Dropout uncertainty quantification — 57% smaller and 99.6% faster than an earlier LSTM baseline I built myself. Presented at Tata Technologies InnoVent.
+**Skills:** GRU, Temporal Attention, TFLite Quantization, Edge Deployment, MC Dropout, Explainable AI
 
-### ✈️ [Turbofan Engine RUL Prediction](https://github.com/mmeetbe24-eng/project_predicting_rul_jet_engines)
-> LSTM deep learning model to predict Remaining Useful Life of jet engines using NASA CMAPSS dataset.  
-> **Skills:** LSTM, Transfer Learning, MC Dropout, TFLite Deployment, Uncertainty Estimation
+### 📦 [Multiclass Delivery Prediction Model](https://github.com/mmeetbe24-eng/project_amazon_delivery_delay_model)
+Two-stage XGBoost + Random Forest pipeline to predict Amazon delivery outcomes on real logistics data.
+**Skills:** XGBoost, Random Forest, SMOTE, Feature Engineering, Class Imbalance Handling
 
 ---
 
