@@ -1,6 +1,6 @@
 # Hi there, I'm Meet 👋
 
-🎓 Second year Computer Engineering student at **Thapar Institute of Engineering and Technology**  
+🎓 Third year Computer Engineering student at **Thapar Institute of Engineering and Technology**  
 🤖 Passionate about **Machine Learning, Deep Learning & AI**  
 📍 India | 🔬 Currently working on a **Research Paper in AI/ML**
 
